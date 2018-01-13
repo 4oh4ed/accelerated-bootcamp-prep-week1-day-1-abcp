@@ -7,7 +7,7 @@ We'll also cover how to execute your code both in the browser console and using 
 
 ## Part I: Intro to Data Types
 
-Data types are pretty much what they sound like––different classifications of data in a programming language.
+reaData types are pretty much what they sound like––different classifications of data in a programming language.
 
 Data types in JS include:
 
